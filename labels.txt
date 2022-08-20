@@ -1,0 +1,3 @@
+0 dog_waste
+1 paper
+2 inhaler
